@@ -17,11 +17,11 @@ JWT_SECRET = "shellshe"
 
 [[kv_namespaces]]
 binding = "img_url"
-id = "da52b8e6711b48a1ad6abf367e3ae44a"
+id = "0eb591231de6423392b4c305e32aa182"
 
 [[kv_namespaces]]
 binding = "users"
-id = "35d724932d7f40cba53e6b9c0e7221f2"
+id = "12df07fa15214467ae2add8d096fbff7"
 
 [site]
 bucket = "./public"
